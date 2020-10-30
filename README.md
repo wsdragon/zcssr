@@ -10,6 +10,8 @@ https://zc18.xyz
 
 邀请码JA1o
 
+https://zc16.xyz/auth/register?code=JA1o
+
 https://zc18.xyz/auth/register?code=JA1o
 
 https://zc17.xyz/auth/register?code=JA1o
